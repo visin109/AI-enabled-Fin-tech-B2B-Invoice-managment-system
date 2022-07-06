@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  background-color: #154973;
+
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.grid{
+  background-color: #2D3C49;
+  background-color: #172f3f;
+  border: none;
+  color:white;
+}
+.footer{
+  color:white;
+}
+
+.footer-link{
+  color: #0D6EFD;
+}
+a:visited{
+  text-decoration: none;
+  color:black;
+}
+/* .center{
+  margin:0 auto;
+  /* margin: auto; */
+  /* width: 100%; */
+  /* border: 3px solid green; */
+  /* padding-top: 40px; */
+  /* padding-right: 20px; */
+/* } */ */
+/* .Button{
+  border-radius: 10px;
+  border: 2px solid;
+  width: 10ch;
+  color:black;
+} */
+.highradiuslogo{
+  text-align: center;
+  height: 15;
+}
+.highradiuslogo{
+  position: relative;
+  left: 25%;
+}
+.search{
+  /* border-radius: 10px;
+  padding-right: 5px;
+  border: 2px solid; */
+  width: 30ch;
+}
+.container {
+  width:100%;
+  padding-bottom:5px;
+  text-align:center;
+}
+/* .left {
+  float:left;
+  left:40%;
+} */
+/* .right {
+  float:right;
+  padding-bottom:10px;
+} */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
