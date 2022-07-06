@@ -26,5 +26,9 @@ edit User
 
 After edit
 
+![image](https://user-images.githubusercontent.com/74146605/177469264-23095707-33e2-4bbe-b456-960d532cb94d.png)
+
+Pagination
+
 ![image](https://user-images.githubusercontent.com/74146605/177468538-0d05e5c2-7c90-4beb-92a9-a6c9a8e86f66.png)
 
