@@ -32,6 +32,6 @@ Pagination
 
 ![image](https://user-images.githubusercontent.com/74146605/177468538-0d05e5c2-7c90-4beb-92a9-a6c9a8e86f66.png)
 
-Predict backend:
+Predict backend working:
 
 ![image](https://user-images.githubusercontent.com/74146605/177470580-f10d07b7-eb93-4bac-ba00-13d08b5086cd.png)
